@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananya Mohapatra
-- 👀 I’m interested in coding with C and Python
+- 👀 I’m interested in coding with Python and JavaScript
 - 🌱 I’m currently learning web development and enterprise grade applications
 - 💞️ I’m looking to collaborate on web developement projects
 
